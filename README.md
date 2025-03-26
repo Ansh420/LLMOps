@@ -14,7 +14,7 @@ This repository serves as a practical guide for implementing LLMOps pipelines, o
 
 **MLOps Integration**: CI/CD pipelines, model monitoring, and infrastructure-as-code (IaC) templates.
 
-**Educational Resources**: Curated guides, research papers, and tutorials.
+**Educational Resources**: Curated guides, research papers, and tutorials.  
 
 ## 🛠 Technologies
 **Language Models:** OpenAI GPT-3/4, Hugging Face Transformers
