@@ -26,6 +26,3 @@ This repository serves as a practical guide for implementing LLMOps pipelines, o
 **MLOps:** MLflow, DVC, GitHub Actions, Grafana/Prometheus
 
 **Data Processing:** Pandas, NumPy, SpaCy
-
-
-
