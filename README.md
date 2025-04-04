@@ -6,7 +6,7 @@ A comprehensive repository dedicated to streamlining the deployment, monitoring,
 This repository serves as a practical guide for implementing LLMOps pipelines, offering code examples, tutorials, and resources to operationalize LLMs like OpenAI GPT-3, GPT-4, and models built with LangChain. It emphasizes scalability, reproducibility, and best practices for deploying LLM-powered applications.
 
 ## 🚀 Features  
-**End-to-End Workflows**: From data preparation to deployment and monitoring.
+**End-to-End Workflows**: From data preparation to deployment and monitoring. 
   
 **Code Examples**: Jupyter notebooks and scripts for common LLMOps tasks.
 
