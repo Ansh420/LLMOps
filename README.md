@@ -2,7 +2,7 @@
  
 A comprehensive repository dedicated to streamlining the deployment, monitoring, and management of Large Language Models (LLMs) in production environments. This project covers end-to-end workflows for LLMOps, including data preprocessing, integration with LLM APIs, fine-tuning, application development, deployment, and MLOps practices.
 
-## 📌 Overview
+## 📌 Overview 
 This repository serves as a practical guide for implementing LLMOps pipelines, offering code examples, tutorials, and resources to operationalize LLMs like OpenAI GPT-3, GPT-4, and models built with LangChain. It emphasizes scalability, reproducibility, and best practices for deploying LLM-powered applications.
 
 ## 🚀 Features  
