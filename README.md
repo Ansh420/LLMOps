@@ -19,7 +19,7 @@ This repository serves as a practical guide for implementing LLMOps pipelines, o
 ## 🛠 Technologies 
 **Language Models:** OpenAI GPT-3/4, Hugging Face Transformers
 
-**Frameworks**: LangChain, PyTorch, TensorFlow
+**Frameworks**: LangChain, PyTorch, TensorFlow 
 
 **Deployment:** FastAPI, Docker, Kubernetes
 
