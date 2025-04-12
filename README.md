@@ -8,7 +8,7 @@ This repository serves as a practical guide for implementing LLMOps pipelines, o
 ## 🚀 Features  
 **End-to-End Workflows**: From data preparation to deployment and monitoring. 
   
-**Code Examples**: Jupyter notebooks and scripts for common LLMOps tasks.
+**Code Examples**: Jupyter notebooks and scripts for common LLMOps tasks. 
 
 **Tools & Frameworks**: Integration with OpenAI API, LangChain, Hugging Face, FastAPI, Docker, and more.
 
